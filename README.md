@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lailasamsia
 - 👀 I’m interested in 
 - 🌱 I’m currently learning ...
-- 📫 How to reach me [Linkedin - lailasamsia](www.linkedin.com/in/lailasamsia)
+- 📫 How to reach me [Linkedin - lailasamsia](https://www.linkedin.com/in/lailasamsia/)
 
 <!---
 lailasamsia/lailasamsia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
