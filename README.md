@@ -14,6 +14,8 @@ Find me:
 
 [![Linkedin](https://th.bing.com/th/id/R248909efd0ba579bfa687e0b65362478?rik=fS%2btW%2fUIfp1a5w&riu=http%3a%2f%2ffindicons.com%2ffiles%2ficons%2f1982%2fsocial_me%2f60%2flinkedin.png&ehk=C6rw%2fg3rU1DLs5y9gPp3q7b7dVbtLBrp11xNU4MsCgw%3d&risl=&pid=ImgRaw)](https://www.linkedin.com/in/lailasamsia/)
 
+:e-mail: @lailasamsia
+
 
 
 <!---
